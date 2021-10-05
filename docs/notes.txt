@@ -1,0 +1,11 @@
+#11 - NODE JS - COMO USAR MOTORES de PLANTILLAS - Introducción práctica PASO A PASO
+min 0:00
+
+- Init
+npm init -y
+
+- Express
+interactua con el modulo http de node, todo se podria hacer con http pero con mas codigo
+
+- Install
+npm i express
